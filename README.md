@@ -6,3 +6,4 @@ https://tools.suckless.org/dmenu/
 
 - [center](https://tools.suckless.org/dmenu/patches/center/)
 - [xresources](https://tools.suckless.org/dmenu/patches/xresources/)
+- [fuzzymatch](https://tools.suckless.org/dmenu/patches/fuzzymatch/)
